@@ -1,0 +1,1 @@
+import{d as a,a as s,o as t,b as c,e as r,f as _}from"./index-bftEnPQp.js";const l=_("div",null,null,-1),m=a({__name:"index",setup(d){function o(e){console.log("页面：",e)}return(e,p)=>{const n=s("x-choose-area");return t(),c("div",null,[l,r(n,{onChange:o})])}}});export{m as default};

@@ -1,0 +1,1 @@
+import{d as l,r as t,a as r,o as c,c as p,u as a,i as _}from"./index-bftEnPQp.js";const d=l({__name:"index",setup(f){let i=t("选择图标"),e=t(!1);return(u,o)=>{const n=r("x-choose-icon");return c(),p(n,{title:a(i),visiable:a(e),"onUpdate:visiable":o[0]||(o[0]=s=>_(e)?e.value=s:e=s)},null,8,["title","visiable"])}}});export{d as default};
